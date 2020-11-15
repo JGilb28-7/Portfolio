@@ -7,7 +7,7 @@ projected up dated from: 02-CSS-and-Bootstrap-RP
 Stock WebImage from: https://www.pexels.com/
 
 # Website Images:
-![image 1](Assets\images\PortfolioPage.png)"Portfolio Page")
+![image 1](Assets\images\PortfolioPage.png)"Portfolio Page"
 
 ## Features:
 Updated Portfolio page using bootstrap - this responsive design allows users to review my portfolio through viewing the deployed side and access to my github site. 
