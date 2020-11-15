@@ -1,27 +1,27 @@
-# Portfolio
-Web Development Portfolio
+## Jonathan Gilbert
+### UNH Coding BootCamp - Update portfolio Homework
+### GitHub
+https://github.com/JGilb28-7/Portfolio.git
+projected up dated from: 02-CSS-and-Bootstrap-RP
 
-### updated from 02-CSS-and-Bootstrap-RP
-    02 CSS and Bootstrap with Responsive Portfolio
-    ##### GitHub Repo Link: https://github.com/JGilb28-7/01-HTML-Git-CSS-02-Homework.git
-    Unit 02 CSS and Bootstrap Homework: Responsive Portfolio for Jonathan Gilbert, UNH Coding Boot Camp UNH-POR-FSF-PT-09-2020
-
-
+Stock WebImage from: https://www.pexels.com/
 
 # Website Images:
-# 10.8.2020 - updated the .img as - I used a \ after assets s/b a /
-# ref https://youtu.be/hHbWF1Bvgf4
+![image 1](Assets\images\PortfolioPage.png)"Portfolio Page")
 
-![image 8](assets/0160fb5938535fe168e09c171c8bd634300bf44cb4.jpg"JSG Photo")
+## Features:
+Updated Portfolio page using bootstrap - this responsive design allows users to review my portfolio through viewing the deployed side and access to my github site. 
 
+## Future Development:
+1. The contact for will be updated with node.js to be able to store contact information as well as be notified - the Script.js as commented code in preparation. 
+
+2. will continue to add additional portfolio sites as they become updated
+
+
+## Resources:
 Stock Images from https://www.pexels.com/
 https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
+stackoverflow
+w3schools
+examples as inspiration from class
 
-## Completed Tasks
-* Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
-    <!-- This complete>
-    <!-- added in my photo and added to the Assets folder>
-* Using Bootstrap, develop your portfolio site with the following items:
-   * A navbar - <!-- Complete>
-   * A responsive layout <!--complete>
-   * Responsive images <!-- adjusted the Margin using css>
